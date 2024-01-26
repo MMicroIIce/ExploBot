@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon.png</file>
+        <file>image_carte.png</file>
+        <file>image_logo.png</file>
+        <file>video3.mp4</file>
+        <file>background_gif.gif</file>
+    </qresource>
+</RCC>
